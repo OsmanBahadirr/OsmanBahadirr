@@ -11,10 +11,6 @@ Currently focused on improving my backend and system-level skills.
 ## Contact Me
 <p><a href="https://www.linkedin.com/in/osmanbahadiravci/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.bahadiravci.com/" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="https://medium.com/@osmanbahadiravci" target="_blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium"></a> </p>
 
-## Skills
-
-<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;</p>
-
 ## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=OsmanBahadirr&show_icons=true&count_private=true&theme=dark" alt="GitHub İstatistikleri" />
