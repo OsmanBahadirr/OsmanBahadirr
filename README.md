@@ -1,13 +1,31 @@
-Hi 👋 My name is Bahadir ========================  Back End Developer ------------------  • 🔧 I build backend systems and microservices using Golang & Java (Spring Boot)  • 🧠 Interested in low-level programming, system design, and computer architecture  • 🔐 Actively explored web security & CTF challenges  • 🏗️ Currently working on a multi-tenant Law Firm Management System  • 🎯 Goal: Become a high-performance backend / systems engineer  * 🌍  I'm based in Istanbul * ✉️  You can contact me at [osmanbahadiravci@gmail.com](mailto:osmanbahadiravci@gmail.com)
+# Hello 👋, I'm Bahadir
+### Backend Developer
 
+I'm a backend developer and Mathematical Engineering student at Yıldız Technical University.
 
- ### Socials  
- <p align="left"> <a href="https://www.github.com/osmanbahadirr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/osmanbahadiravci/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+I mainly work with Go and Java (Spring Boot) to build backend systems and APIs.  
+I'm interested in system design, low-level programming, and how software works under the hood.
 
-### Badges
+Currently focused on improving my backend and system-level skills.
 
-<b>My GitHub Stats</b>
+## Contact Me
+<p><a href="https://www.linkedin.com/in/osmanbahadiravci/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.bahadiravci.com/" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="https://medium.com/@osmanbahadiravci" target="_blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium"></a> </p>
 
-<a href="http://www.github.com/osmanbahadirr"><img src="https://github-readme-stats.vercel.app/api?username=osmanbahadirr&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="osmanbahadirr's GitHub stats" /></a>
-<a href="http://www.github.com/osmanbahadirr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=osmanbahadirr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="https://github.com/osmanbahadirr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmanbahadirr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## Skills
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
+</p>
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=OsmanBahadirr&show_icons=true&count_private=true&theme=dark" alt="GitHub İstatistikleri" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsmanBahadirr&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OsmanBahadirr&theme=dark" alt="GitHub Streak" />
+
